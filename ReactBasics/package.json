@@ -10,8 +10,13 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
     "@react-navigation/bottom-tabs": "^5.6.1",
     "@react-navigation/native": "^5.6.1",
+    "@unimodules/core": "^5.3.0",
+    "expo-asset": "^8.1.7",
+    "expo-font": "^8.2.1",
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-gesture-handler": "^1.6.1",
